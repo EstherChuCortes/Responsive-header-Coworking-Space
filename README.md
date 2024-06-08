@@ -28,10 +28,10 @@ Incluye elementos como el logotipo de la marca, el menú de navegación, opcione
 </div>
 
 <p align="center">
-   <a href="https://github.com/EstherChuCortes/Heeader-Responsive-Coworking-Space/tree/main">
+   <a href="https://github.com/EstherChuCortes/Responsive-header-Coworking-Space?tab=readme-ov-file">
       <img src="https://img.shields.io/badge/ver%20codigo-%23761C76?style=for-the-badge" alt="badge">
    </a>
-   <a href="https://estherchucortes.github.io/Heeader-Responsive-Coworking-Space/">
+   <a href="https://estherchucortes.github.io/Responsive-header-Coworking-Space/">
        <img src="https://img.shields.io/badge/ver%20WEBSITE-%23761C76?style=for-the-badge" alt="badge">
    </a>    
   
