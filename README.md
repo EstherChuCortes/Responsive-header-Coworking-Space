@@ -1,10 +1,10 @@
 <h1 align="center" style="color: #0366d6;">
-   Responsive-header-Coworking Space
+   Responsive-Header-Coworking Space
 </h1>
 
 ## Encabezado de la página web Cozy Corner✨
 
-¡Hola! Soy Esther y este es el repositorio del encabezado de la página web responsive. La plantilla está desarrollada utilizando HTML y CSS, optimizada para dispositivos moviles y diferentes tamaños de pantalla, incluyendo tabletas y escritorios.
+¡Hola! Soy Esther y este es el repositorio del encabezado de la página web. La plantilla está desarrollada utilizando HTML y CSS.
 
 ## Características 🛠️
 
